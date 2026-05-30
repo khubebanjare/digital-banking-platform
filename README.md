@@ -594,23 +594,6 @@ digital-payment-platform/
 - Fault Tolerance
 - Cloud-Native Engineering
 
----
-
-# 🎯 Interview Value
-
-This project helps explain:
-- Microservices Architecture
-- Kafka Internals
-- Distributed Transactions
-- Payment Processing
-- Docker & Kubernetes
-- Event-Driven Systems
-- Scalability
-- System Design
-- Cloud-Native Deployment
-- Enterprise Backend Engineering
-
----
 
 # 🛣️ Development Roadmap
 
