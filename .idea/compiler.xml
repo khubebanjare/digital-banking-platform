@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="21" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="digital-banking-platform.analytics-service" options="-parameters" />
+      <module name="digital-banking-platform.analytics-service.main" options="-parameters" />
+      <module name="digital-banking-platform.analytics-service.test" options="-parameters" />
+      <module name="digital-banking-platform.api-gateway" options="-parameters" />
+      <module name="digital-banking-platform.api-gateway.main" options="-parameters" />
+      <module name="digital-banking-platform.api-gateway.test" options="-parameters" />
+      <module name="digital-banking-platform.auth-service" options="-parameters" />
+      <module name="digital-banking-platform.auth-service.main" options="-parameters" />
+      <module name="digital-banking-platform.auth-service.test" options="-parameters" />
+      <module name="digital-banking-platform.config-server" options="-parameters" />
+      <module name="digital-banking-platform.config-server.main" options="-parameters" />
+      <module name="digital-banking-platform.config-server.test" options="-parameters" />
+      <module name="digital-banking-platform.discovery-server" options="-parameters" />
+      <module name="digital-banking-platform.discovery-server.main" options="-parameters" />
+      <module name="digital-banking-platform.discovery-server.test" options="-parameters" />
+      <module name="digital-banking-platform.fraud-detection-service" options="-parameters" />
+      <module name="digital-banking-platform.fraud-detection-service.main" options="-parameters" />
+      <module name="digital-banking-platform.fraud-detection-service.test" options="-parameters" />
+      <module name="digital-banking-platform.notification-service" options="-parameters" />
+      <module name="digital-banking-platform.notification-service.main" options="-parameters" />
+      <module name="digital-banking-platform.notification-service.test" options="-parameters" />
+      <module name="digital-banking-platform.payment-processing-service" options="-parameters" />
+      <module name="digital-banking-platform.payment-processing-service.main" options="-parameters" />
+      <module name="digital-banking-platform.payment-processing-service.test" options="-parameters" />
+      <module name="digital-banking-platform.transaction-service" options="-parameters" />
+      <module name="digital-banking-platform.transaction-service.main" options="-parameters" />
+      <module name="digital-banking-platform.transaction-service.test" options="-parameters" />
+      <module name="digital-banking-platform.wallet-service" options="-parameters" />
+      <module name="digital-banking-platform.wallet-service.main" options="-parameters" />
+      <module name="digital-banking-platform.wallet-service.test" options="-parameters" />
+    </option>
+  </component>
+</project>
